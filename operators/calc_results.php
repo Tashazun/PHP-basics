@@ -1,9 +1,8 @@
 <?php 
     $first_number = $_GET["first_number"];
     $second_number = $_GET["second_number"]; 
-    $divide1 = $first_number / 20;
-    $divide2 = $second_number / 20;
-    $solution = $divide1 + $divide2;
+    $divide2 = $second_number / $first_number;
+    $solution = $divide2 + 5;
 ?>
 <!DOCTYPE html>
 <html>
