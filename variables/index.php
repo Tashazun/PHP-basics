@@ -1,8 +1,8 @@
 <?php
-    $band = "Bat For Lashes";
-    $music = "A haunting dream pop";
-    $lead_singer = "Natasha Khan";
-    $picture = "http://www.batforlashes.com/img/bride.jpg";
+    $band = "Lizzo";
+    $music = "Body positive, and self loving hip-hop";
+    $lead_singer = "Melissa Jefferson";
+    $picture = "https://cdn.pastemagazine.com/www/articles/lizzophone.main.png";
 ?>
 
 <!DOCTYPE html>
