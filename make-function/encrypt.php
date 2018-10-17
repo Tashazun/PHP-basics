@@ -22,6 +22,7 @@
 <body>
     <div class="container">
         <h1>Message encrypted!</h1>
+        <h2><?php echo "$message1 $message2 $message3" ?></h2>
         <h2>Here you go: <?php echo $new_strings ?></h2>
     </div>
 </body>
