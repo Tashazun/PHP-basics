@@ -1,8 +1,8 @@
 <?php 
     $first_number = $_GET["first_number"];
     $second_number = $_GET["second_number"]; 
-    $divide2 = $second_number / $first_number;
-    $solution = $divide2 + 5;
+    $op1 = $second_number - $first_number;
+    $solution = $op1 * 4;
 ?>
 <!DOCTYPE html>
 <html>
