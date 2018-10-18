@@ -3,10 +3,10 @@
     $result = canYouEat($dish);
 
     function canYouEat($value) {
-        if ($value != "fish" && $value != "pineapple") {
-            return "You can eat it.";
+        if ($value == "fish" || $value == "pineapple") {
+            return "You cannot eat it.";
         } else {
-            return "You can't eat it.";
+            return "You can eat it.";
         }
     };
 ?>
