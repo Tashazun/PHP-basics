@@ -76,8 +76,7 @@
     <h1>Estimated Price of Shipping:</h1>
     <ul>
         <?php 
-            echo "<h1> $package_volume </h1>
-                    <h2> $shipping_price </h2>"
+            echo "<h2>$$shipping_price </h2>"
         ?>
     </ul>
 </body>
